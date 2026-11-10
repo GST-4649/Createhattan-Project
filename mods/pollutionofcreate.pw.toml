@@ -1,0 +1,8 @@
+name = "Pollution Of Create"
+filename = "pollutionofcreate-1.19.2-0.0.4-backport.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4e72b0c5d26687bfa1c2b222fb07e173fea7f9c4"
+mode = "local"
