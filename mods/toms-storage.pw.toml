@@ -1,0 +1,9 @@
+name = "Tom's Storage"
+filename = "toms_storage-1.19-1.5.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "15bcd9a63ef48012a8c5319cb4b4a720c7c7619b"
+mode = "url"
+url = "https://edge.forgecdn.net/files/5424/070/toms_storage-1.19-1.5.11.jar"
