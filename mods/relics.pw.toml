@@ -1,0 +1,9 @@
+name = "Relics"
+filename = "relics-1.19.2-0.6.2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b58c3ad900bcde421b129bd289ff7bc9735fc24c"
+mode = "url"
+url = "https://edge.forgecdn.net/files/6375/704/relics-1.19.2-0.6.2.5.jar"
