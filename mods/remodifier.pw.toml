@@ -1,0 +1,9 @@
+name = "Remodifier"
+filename = "remodifier-1.19.2-2.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bb2b3ce3354306b66bcde53439f5e62c837bf695"
+mode = "url"
+url = "https://edge.forgecdn.net/files/5089/575/remodifier-1.19.2-2.2.3.jar"
