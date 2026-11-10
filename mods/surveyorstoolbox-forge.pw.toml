@@ -1,0 +1,9 @@
+name = "Surveyor's Toolbox"
+filename = "surveyorstoolbox-forge-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d80e79ed8b2b5212fbb34d026d28edab4f69e7e7"
+mode = "url"
+url = "https://edge.forgecdn.net/files/9002/824/surveyorstoolbox-forge-1.19.2-1.0.0.jar"
