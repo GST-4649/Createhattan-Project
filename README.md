@@ -11,3 +11,5 @@ Got something you want to report? Please submit it to the [issue tracker](https:
 3. packwiz mr export
 
 You can then import the .mrpack into your launcher of choice and play The Minehattan Project.
+
+Note: this fork's changes were made with AI assistance.
