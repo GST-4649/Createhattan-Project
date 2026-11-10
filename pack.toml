@@ -1,13 +1,13 @@
-name = "The Minehattan Project"
+name = "Createhattan Project"
 author = "LunarLoony"
-version = "5.0.6"
+version = "createhattan-1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1d9d6f3975763436b5f1eace8337183a9f9af98a2fc54c1f6e69c4ccd25489ef"
+hash = "14ab451e7bac7794239b5e1aaf4e56a6939c1cd7d98727c246995aa500dd31a9"
 
 [versions]
-forge = "43.3.0"
+forge = "43.5.2"
 minecraft = "1.19.2"
