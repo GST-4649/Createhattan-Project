@@ -1,0 +1,9 @@
+name = "Create Crafts & Additions"
+filename = "createaddition-1.19.2-1.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "21aa45feceafac98ad919975e2a7483d3a67d022"
+mode = "url"
+url = "https://edge.forgecdn.net/files/5099/757/createaddition-1.19.2-1.2.3.jar"
